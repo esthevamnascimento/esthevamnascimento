@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Esthevam! 👋
 
-<!--
-**esthevamnascimento/esthevamnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou líder de projetos de gases combustíveis, atualmente migrando de carreira para a área de tecnologia. Estou iniciando minha graduação em Análise e Desenvolvimento de Sistemas e explorando novas linguagens de programação.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🔬 Experiência em liderança de projetos industriais (gases combustíveis)
+- 🎓 Estudante universitário de Análise e Desenvolvimento de Sistemas
+- 💻 Aprendendo Java, HTML, Python e expandindo para novas tecnologias
+- 🚀 Em busca de desafios, novos aprendizados e conexões no mundo da tecnologia
+
+## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esthevam%20Alvico-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/esthevam-alvico-25518728b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+> “A jornada de mil milhas começa com um simples passo.” – Lao Tsé
