@@ -34,11 +34,16 @@ Profissional em transição de carreira com:
 
 ## 🌟 Projetos Destacados
 - [Calculadora de Orçamento Pessoal](https://github.com/esthevamnascimento/calculadora-orcamento-pessoal) - Projeto prático desenvolvido com Python para controle financeiro pessoal
-
+- [Infografico - IA](https://github.com/esthevamnascimento/infografico-justica-ia.git) - Projeto Grafico em HTML.
+- [Tetris Game](https://github.com/esthevamnascimento/Tetris_game.git) - Primeiro contato com Games.
 
 ## 📊 GitHub Analytics
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=esthevamnascimento&show_icons=true&theme=dracula&hide=issues)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=esthevamnascimento&layout=compact&theme=dracula&langs_count=6)
+<div align="center">
+  <a href="https://github.com/esthevamnascimento">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=esthevamnascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthevamnascimento&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=7200"/>
+  </a>
+</div>
 
 ## 📫 Conecte-se Comigo
 - LinkedIn: [Esthevam Alvico](https://www.linkedin.com/in/esthevam-alvico-25518728b)
